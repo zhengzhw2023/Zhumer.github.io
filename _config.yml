@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZHENG Zhenwei / HA"
+title                    : "ZHENG Zhenwei / Fighting"
 title_separator          : "-"
 name                     : &name "ZHENG Zhenwei"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "ZHENG Zhenwei"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"
+  bio              : "Master student now for phd application"
   location         : "HK China"
-  employer         : "The Hong Kong Polytenich University"
+  employer         : "The Hong Kong Polytechnic University(PolyU)"
   uri              : # URL
   email            : "Zhengzhw6@mail2.sysu.edu.cn"
 
